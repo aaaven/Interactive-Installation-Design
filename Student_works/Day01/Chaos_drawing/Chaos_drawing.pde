@@ -1,0 +1,17 @@
+size(600,400);
+background(0);
+textSize(16);
+text("Hello world, the illuminati is",35,90);
+textSize(26);
+text("watching you...",30,150);
+stroke(76); 
+fill(#FFFF99 );
+triangle(300,10,500,375,100,375);
+fill(#FFCC00 );
+ellipse(300,250,200,200);
+fill(255);
+ellipse(300,250,100,50);
+fill(200);
+ellipse(300,250,50,50);
+fill(0);
+ellipse(300,250,30,25);
