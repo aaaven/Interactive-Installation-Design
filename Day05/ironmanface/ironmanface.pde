@@ -1,6 +1,9 @@
+//created by in Aven on Jun 29th with students in Class: Interactive Installation Design
+
 import gab.opencv.*;
 import processing.video.*;
 import java.awt.*;
+
 Capture video;
 OpenCV opencv;
 PImage ironman;

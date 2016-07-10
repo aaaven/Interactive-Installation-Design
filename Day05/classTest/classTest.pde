@@ -1,3 +1,5 @@
+//created by in Aven on Jun 29th with students in Class: Interactive Installation Design
+
 Ball[]  balls = new Ball[15000];
 void setup(){
  size(1280,1024); 
